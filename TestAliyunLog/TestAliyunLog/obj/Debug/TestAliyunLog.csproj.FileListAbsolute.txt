@@ -1,0 +1,14 @@
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\bin\Debug\TestAliyunLog.exe.config
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\bin\Debug\TestAliyunLog.exe
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\bin\Debug\TestAliyunLog.pdb
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\bin\Debug\AliyunLogSDK.dll
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\bin\Debug\Newtonsoft.Json.dll
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\bin\Debug\Google.ProtocolBuffers.dll
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\bin\Debug\LZ4Sharp.dll
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\bin\Debug\Newtonsoft.Json.xml
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\obj\Debug\TestAliyunLog.Form1.resources
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\obj\Debug\TestAliyunLog.Properties.Resources.resources
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\obj\Debug\TestAliyunLog.csproj.GenerateResource.Cache
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\obj\Debug\TestAliyunLog.csproj.CoreCompileInputs.cache
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\obj\Debug\TestAliyunLog.exe
+d:\我的文档\documents\visual studio 2017\Projects\TestAliyunLog\TestAliyunLog\obj\Debug\TestAliyunLog.pdb
